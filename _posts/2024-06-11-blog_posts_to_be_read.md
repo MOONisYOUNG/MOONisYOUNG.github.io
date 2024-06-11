@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 읽을 예정인 기술 블로그 포스팅
+title: 기술 블로그 포스팅 북마크
 ---
 ### 이번 주에 읽을 내용들
 * [localhost의 동작 원리](https://velog.io/@480/localhost-%EC%9D%98-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC)
