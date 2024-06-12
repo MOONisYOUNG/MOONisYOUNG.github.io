@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Sci-kit Learn 자료
+title: scikit-learn 자료
 ---
 ### 'Choosing the right estimator' 정리본
 ![](/images/scikit_learn_guide.png)  
