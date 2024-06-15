@@ -4,6 +4,7 @@ title: JavaScript 공부
 ---
 ### JavaScript 병아리🐤
 * [JavaScript 기초 자료](https://learnjs.vlpt.us/)
+* [The Modern JavaScript Tutorial](https://javascript.info/)
   
 웹 크롤링/스크레이핑을 배우면서 JavaScript가 동작하는 방식도 같이 익히고 싶어졌어요.  
   
