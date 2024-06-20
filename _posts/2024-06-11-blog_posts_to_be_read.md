@@ -1,6 +1,8 @@
 ---
 layout: single
 title: 기술 블로그 포스팅 북마크
+categories:
+  - etc
 ---
 ### 🗒️ 읽을 내용들 
 * [Multiprocessing Semaphore 동시성 제어를 위한 필수 도구](https://techchallengearena.substack.com/p/locking-deep-dive-1?trk=feed_main-feed-card_feed-article-content)
