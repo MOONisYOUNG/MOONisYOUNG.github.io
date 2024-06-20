@@ -1,5 +1,5 @@
 ---
-title: "mldl"
+title: "ML/DL"
 layout: archive
 permalink: /mldl
 ---

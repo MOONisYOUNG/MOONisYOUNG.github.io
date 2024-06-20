@@ -1,5 +1,5 @@
 ---
-title: "language"
+title: "Programming Language"
 layout: archive
 permalink: /language
 ---
