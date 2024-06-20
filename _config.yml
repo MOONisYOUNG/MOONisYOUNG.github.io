@@ -20,7 +20,7 @@ title                    : "MoonYoung Blog"
 title_separator          : "-"
 subtitle                 : "🌕🐣🎵"
 name                     : "MoonYoung"
-description              : "Persistence means continuing firmly with a course of action despite obstacles and resistance."
+description              : "Hello, My name is MoonYoung :)"
 url                      : "https://MOONisYOUNG.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "MOONisYOUNG/blog-comments" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -114,7 +114,7 @@ analytics:
 author:
   name             : "MoonYoung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "My name is MoonYoung. Hello ^^"
+  bio              : "Persistence means continuing firmly with a course of action despite obstacles and resistance."
   location         : # "Somewhere"
   email            :
   links:
