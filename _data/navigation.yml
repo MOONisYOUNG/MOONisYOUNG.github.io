@@ -10,3 +10,15 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+sidebar-category:
+  - title: "카테고리"
+    children:
+      - title: "ML/DL"
+        url: "/mldl"
+      - title: "Backend"
+        url:  "/backend"
+      - title: "Programming Language"
+        url:  "/language"
+      - title: "etc"
+        url:  "/etc"
