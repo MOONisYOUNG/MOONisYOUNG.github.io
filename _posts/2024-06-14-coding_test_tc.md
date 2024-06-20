@@ -1,6 +1,8 @@
 ---
 layout: single
 title: 코딩 테스트 Test Case 제작법 
+categories:
+  - etc
 ---
 ### 자료 링크 정리
 * __작은 규모 Test Case 제작 : CLI 입력 형식__
