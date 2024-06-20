@@ -322,3 +322,5 @@ defaults:
       comments: true # true
       share: true
       related: true
+      sidebar:
+        nav: "sidebar-category"
