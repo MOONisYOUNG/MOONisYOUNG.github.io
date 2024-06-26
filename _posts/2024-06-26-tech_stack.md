@@ -17,3 +17,5 @@ categories:
 * Flask
 * FastAPI
 * Docker
+* Go
+* Kubernetes
