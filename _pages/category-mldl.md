@@ -1,7 +1,7 @@
 ---
 title: "ML/DL"
 layout: archive
-permalink: /mldl
+permalink: /categories/mldl
 ---
 
 
