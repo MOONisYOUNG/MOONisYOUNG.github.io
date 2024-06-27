@@ -5,17 +5,20 @@ categories:
   - etc
 ---
 ### 📜 필요한 기술 스택들(+ 심화 공부 필요한 영역도 포함)
-* ML/DL
-* AWS
+* Python (심화 공부 필요)
+* AI (ML/DL 포함)
+* Flask
+* FastAPI
 * Django
+* Go
+* Linux
+* AWS
+* Docker
+* Kubernetes
+* JavaScript
 * Node.js
+* Java
+* Spring
 * Spring Boot
 * MySQL
 * Redis
-* Linux
-* Python
-* Flask
-* FastAPI
-* Docker
-* Go
-* Kubernetes
