@@ -3,6 +3,8 @@ layout: single
 title: Python 웹 백엔드 공부
 categories:
   - backend
+tags:
+  - Python
 ---
 ### 🐍 Python 웹 백엔드 자료
 * [점프 투 FastAPI](https://wikidocs.net/book/8531)
