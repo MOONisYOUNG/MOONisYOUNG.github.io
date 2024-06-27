@@ -1,7 +1,7 @@
 ---
 title: "etc"
 layout: archive
-permalink: /categories/etc
+permalink: /etc
 ---
 
 

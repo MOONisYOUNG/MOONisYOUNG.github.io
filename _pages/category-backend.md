@@ -1,7 +1,7 @@
 ---
 title: "Backend"
 layout: archive
-permalink: /categories/backend
+permalink: /backend
 ---
 
 

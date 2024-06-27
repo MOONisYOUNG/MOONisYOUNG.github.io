@@ -1,7 +1,7 @@
 ---
 title: "Programming Language"
 layout: archive
-permalink: /categories/language
+permalink: /language
 ---
 
 
