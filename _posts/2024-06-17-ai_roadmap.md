@@ -1,6 +1,6 @@
 ---
 layout: single
-title: ML/DL 로드맵
+title: AI 로드맵
 categories:
   - ai
 tags:
