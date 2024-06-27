@@ -2,7 +2,9 @@
 layout: single
 title: JavaScript 공부
 categories:
-  - language
+  - programming-language
+tags:
+  - JavaScript
 ---
 ### JavaScript 병아리를 위한 자료🐤
 * [JavaScript 기초 자료](https://learnjs.vlpt.us/)

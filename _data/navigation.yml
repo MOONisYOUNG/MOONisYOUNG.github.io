@@ -14,11 +14,11 @@ main:
 sidebar-category:
   - title: "카테고리"
     children:
-      - title: "ML/DL"
-        url: "/categories/#mldl"
+      - title: "AI"
+        url: "/categories/#ai"
       - title: "Backend"
         url:  "/categories/#backend"
       - title: "Programming Language"
-        url:  "/categories/#language"
+        url:  "/categories/#programming-language"
       - title: "etc"
         url:  "/categories/#etc"

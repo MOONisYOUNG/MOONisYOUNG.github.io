@@ -1,9 +1,9 @@
 ---
-title: "ML/DL"
+title: "AI"
 layout: archive
-permalink: /categories/mldl
+permalink: /categories/ai
 ---
 
 
-{% assign posts = site.categories.mldl %}
+{% assign posts = site.categories.ai %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

@@ -2,7 +2,9 @@
 layout: single
 title: scikit-learn 자료
 categories:
-  - mldl
+  - ai
+tags:
+  - ml
 ---
 ### 'Choosing the right estimator' 정리본
 ![](/images/scikit_learn_guide.png)  

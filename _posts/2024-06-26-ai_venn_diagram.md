@@ -2,7 +2,10 @@
 layout: single
 title: AI 하위 분야들
 categories:
-  - mldl
+  - ai
+tags:
+  - ml
+  - dl
 ---
 ### 🚀𝐀𝐈 𝐢𝐬 𝐌𝐨𝐫𝐞 𝐓𝐡𝐚𝐧 𝐂𝐡𝐚𝐭𝐆𝐏𝐓
 
