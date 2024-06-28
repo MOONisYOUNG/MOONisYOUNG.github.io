@@ -1,7 +1,8 @@
 ---
 layout: single
-title: JavaScript 공부
-categories: 🌱 Node.js 입문 전에 봐야 하는 내용
+title: "JavaScript 공부"
+excerpt: "🌱 Node.js 입문 전에 봐야 하는 내용"
+categories: 
   - programming-language
 tags:
   - JavaScript
