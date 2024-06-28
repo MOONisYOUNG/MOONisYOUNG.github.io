@@ -1,6 +1,7 @@
 ---
 layout: single
-title: AI 하위 분야들
+title: "AI 하위 분야들"
+excerpt: "👍 AI 흐름 및 키워드 기억할 때 좋은 자료"
 categories:
   - ai
 tags:

@@ -1,6 +1,7 @@
 ---
 layout: single
-title: 코딩 테스트 Test Case 제작법 
+title: "코딩 테스트 Test Case 제작법"
+excerpt: "👍 Test Case 적을 때 고려 가능한 방법"
 categories:
   - etc
 ---

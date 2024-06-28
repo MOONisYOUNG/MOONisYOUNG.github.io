@@ -1,6 +1,7 @@
 ---
 layout: single
-title: 기술 블로그 포스팅 북마크
+title: "기술 블로그 포스팅 북마크"
+excerpt: "📝 차근차근 정리해서 읽을 내용들"
 categories:
   - etc
 ---

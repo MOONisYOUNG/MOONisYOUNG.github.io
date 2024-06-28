@@ -1,10 +1,12 @@
 ---
 layout: single
-title: Python 웹 백엔드 공부
+title: "Python 웹 백엔드 공부"
+excerpt: "💪 Python 백엔드 공부를 결심하게 된 계기"
 categories:
   - backend
 tags:
   - Python
+  - Fast API
 ---
 ### 🐍 Python 웹 백엔드 자료
 * [점프 투 FastAPI](https://wikidocs.net/book/8531)

@@ -1,6 +1,7 @@
 ---
 layout: single
-title: AI 로드맵
+title: "AI 로드맵"
+excerpt: "🌱 AI 공부를 위한 이정표"
 categories:
   - ai
 tags:

@@ -1,6 +1,7 @@
 ---
 layout: single
-title: scikit-learn 자료
+title: "scikit-learn 자료"
+excerpt: "🤖 ML 모델 종류 선택 시 참고하면 좋은 내용"
 categories:
   - ai
 tags:
