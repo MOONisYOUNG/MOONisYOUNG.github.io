@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "JavaScript 공부"
+title: 'JavaScript 공부'
 categories: "🌱 Node.js 입문 전에 봐야 하는 내용"
   - programming-language
 tags:
