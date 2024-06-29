@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Python 개발자가 C를 공부하면 좋은 이유
-excerpt: 🧐 정말로 불필요한 공부일까요?
+excerpt: 🧐 C를 공부하는 게 정말로 불필요할까요?
 categories:
   - programming-language
 tags:
