@@ -9,6 +9,7 @@ categories:
 * [Multiprocessing Semaphore 동시성 제어를 위한 필수 도구](https://techchallengearena.substack.com/p/locking-deep-dive-1?trk=feed_main-feed-card_feed-article-content)
 * [광고 시스템 퍼포먼스 튜닝 회고록](https://techblog.yogiyo.co.kr/%EA%B4%91%EA%B3%A0-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%8D%BC%ED%8F%AC%EB%A8%BC%EC%8A%A4-%ED%8A%9C%EB%8B%9D-%ED%9A%8C%EA%B3%A0%EB%A1%9D-a658e40842d6)
 * [신입 개발자들이 갖춰야할 능력](https://youngban.tistory.com/5)
+* [42: GPT’s answer to Life, the Universe, and Everything](https://medium.com/leniolabs/42-gpts-answer-to-life-the-universe-and-everything-829874fbffa8)
   
   
 ### ✅ 확인했으나 추가 공부가 필요한 포스팅
