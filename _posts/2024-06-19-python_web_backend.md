@@ -9,8 +9,8 @@ tags:
   - Fast API
 ---
 ### 🐍 Python 웹 백엔드 자료
-* [점프 투 FastAPI](https://wikidocs.net/book/8531)
-* [점프 투 플라스크](https://wikidocs.net/book/4542)
+* <a href="https://wikidocs.net/book/8531" target="_blank">점프 투 FastAPI</a>
+* <a href="https://wikidocs.net/book/4542" target="_blank">점프 투 플라스크</a>
 
 저는 정보통계학과 출신이라서 백엔드 동작 원리까지 공부하지는 못했어요. 백엔드 영역은 컴퓨터과가 주로 다루는 부분이었을 뿐만 아니라, 통계학 지식과 이를 응용하기 위한 컴퓨팅 기법을 배우는 것만으로도 벅찼기 때문에 재학 기간 동안에는 정보통계 전공에 집중하기로 결심했었습니다.
 
