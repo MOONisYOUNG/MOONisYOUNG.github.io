@@ -40,5 +40,5 @@ ChatGPT 투자로 핫했던 MS가 요즘 AI에 신경을 많이 쓰고 있죠?
 Python 숙련자가 되고 싶다면 반드시 C를 거쳐야만 하거든요.
   
 마지막으로 CPython 관련 서적 링크를 남기고 글을 마무리하겠습니다.
-  
-[CPython 파헤치기-Anthony Shaw](https://product.kyobobook.co.kr/detail/S000061776273)
+
+<a href="https://product.kyobobook.co.kr/detail/S000061776273" target="_blank">CPython 파헤치기-Anthony Shaw</a>
