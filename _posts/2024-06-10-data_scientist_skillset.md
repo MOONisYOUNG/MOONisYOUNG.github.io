@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "데이터 엔지니어에게 필요한 스킬들"
-excerpt: "🌱신입 데이터 엔지니어를 위한 첫 이정표"
+excerpt: "🌱 신입 데이터 엔지니어를 위한 첫 이정표"
 categories:
   - etc
 tags:

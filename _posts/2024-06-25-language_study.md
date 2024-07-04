@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Programming Language 공부 시 유용한 사이트"
-excerpt: "💰꾸준한 Programming Language 공부는 곧 든든한 자산"
+excerpt: "💰 꾸준한 Programming Language 공부는 곧 든든한 자산"
 categories:
   - programming-language
 ---

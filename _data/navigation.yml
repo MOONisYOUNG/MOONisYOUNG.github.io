@@ -20,5 +20,7 @@ sidebar-category:
         url:  "/categories/#backend"
       - title: "Programming Language"
         url:  "/categories/#programming-language"
+      - title: "Math"
+        url: "/categories/#math"
       - title: "etc"
         url:  "/categories/#etc"

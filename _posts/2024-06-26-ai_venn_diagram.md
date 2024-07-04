@@ -5,8 +5,8 @@ excerpt: "👍 AI 흐름 및 키워드 기억할 때 좋은 자료"
 categories:
   - ai
 tags:
-  - ml
-  - dl
+  - ML
+  - DL
 ---
 ### 🚀𝐀𝐈 𝐢𝐬 𝐌𝐨𝐫𝐞 𝐓𝐡𝐚𝐧 𝐂𝐡𝐚𝐭𝐆𝐏𝐓
 
