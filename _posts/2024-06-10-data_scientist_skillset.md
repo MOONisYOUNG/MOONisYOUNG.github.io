@@ -5,7 +5,7 @@ excerpt: "🌱 신입 데이터 엔지니어를 위한 첫 이정표"
 categories:
   - etc
 tags:
-  - data engineering
+  - Data Engineering
 ---
 ### 공부해야 하는 것들
 * SQL
