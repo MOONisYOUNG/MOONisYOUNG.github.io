@@ -4,6 +4,8 @@ title: "기술 블로그 포스팅 북마크"
 excerpt: "📝 차근차근 정리해서 읽을 내용들"
 categories:
   - etc
+tags:
+  - Memo
 ---
 ### 🗒️ 읽을 내용들 
 * <a href="https://techchallengearena.substack.com/p/locking-deep-dive-1?trk=feed_main-feed-card_feed-article-content" target="_blank">Multiprocessing Semaphore 동시성 제어를 위한 필수 도구</a>
