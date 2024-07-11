@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "C 언어 공부 계획"
-excerpt: "🚩 앞으로 나아가기 위한 이정표"
+excerpt: "🚩 Python 장인이 되기 위해 거쳐가려는 길목"
 categories:
   - programming-language
 tags:
