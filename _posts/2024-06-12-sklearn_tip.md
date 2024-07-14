@@ -10,4 +10,4 @@ tags:
 ### 'Choosing the right estimator' 정리본
 ![](/images/scikit_learn_guide.png)  
   
-👉<a href="https://scikit-learn.org/stable/tutorial/machine_learning_map/" target="_blank">원본 이미지 링크</a>
+👉<a href="https://scikit-learn.org/stable/machine_learning_map.html" target="_blank">원본 이미지 링크</a>
