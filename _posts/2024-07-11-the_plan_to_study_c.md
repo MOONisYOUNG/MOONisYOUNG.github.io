@@ -19,5 +19,5 @@ tags:
 * <a href="https://ellielee.tistory.com/477" target="_blank">Visual Studio Code에서 C언어 사용하기</a>  
   
 메인 언어들은 Pycharm(Python), IntelliJ(Java)처럼 편의성이 두드러지는 IDE 위주 사용을 선호하지만, 공부를 위해 잠시 사용할 서브 언어들은 VS Code를 쓰는 게 편하더라구요.  
-마음에 들었을 때 차근차근 정식으로 사용할 IDE를 정하면 되니까, 우선은 VS Code로 가볍게 체험하는 게 좋다고 생각합니다!  
+마음에 들었을 때 정식으로 사용할 IDE를 차근차근 정하면 되니까, 우선은 VS Code로 가볍게 체험하는 게 좋다고 생각합니다!  
 처음부터 너무 완벽하게 셋팅하려고 하면... 결국 아무것도 안 하게 되더라구요...🥲
