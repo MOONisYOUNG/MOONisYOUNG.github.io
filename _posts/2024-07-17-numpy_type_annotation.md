@@ -1,14 +1,16 @@
 ---
 layout: single
-title: "Numpy 라이브러리 사용 시에 Python annotation 표시하는 방법"
+title: "Numpy 라이브러리 & Python type annotation"
 excerpt: "🧐 Numpy를 효과적으로 잘 사용하기 위한 방법 중 하나 "
 categories:
   - programming-language
 tags:
   - Python
+  - Trouble Shooting
 ---
 요즘 Python 언어 사용할 때마다 자료형 표시(type annotation)하는 것에 꽂혔어요.  
 Python은 동적 언어라서, 정적 언어를 주로 사용하던 사람들에게 설명할 때마다 소통 비용이 커졌거든요.  
+  
 이 문제를 어찌 해결하면 좋을지 고민을 좀 하다가, Python type annotation 방식을 알게 되었습니다.  
 근데 Python type annotation을 사용하면 기본적인 자료형은 쉽게 표시 가능한데, AI나 데이터 분석 분야에서 자주 쓰는 numpy 라이브러리의 자료형은 표기가 안 되더라구요.  
 
