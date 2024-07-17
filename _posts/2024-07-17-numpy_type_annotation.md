@@ -24,7 +24,6 @@ numpy 전용 자료형 안내 사항 표기하기 위해서, numpy 라이브러�
 저는 아래와 같은 코드를 작성해서 문제를 해결했습니다 ^_^
   
 ```python
-
 import numpy as np
 import numpy.typing as npt
 
@@ -34,7 +33,6 @@ def typing_np(x1: int, x2: int) -> npt.NDArray[np.int64]:
 
 if __name__ == "main":
     typing_np(1, 2)
-
 ```
 
 제가 참고했던 <a href="https://stackoverflow.com/questions/35673895/type-hinting-annotation-pep-484-for-numpy-ndarray" target="_blank">StackOverflow 게시글</a>도 함께 첨부합니다~
