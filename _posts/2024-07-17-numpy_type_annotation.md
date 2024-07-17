@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Numpy 라이브러리 & Python type annotation"
-excerpt: "🧐 Numpy를 효과적으로 잘 사용하기 위한 방법 중 하나 "
+excerpt: "🧐 Numpy 라이브러리를 효과적으로 잘 사용하기 위한 방법 중 하나 "
 categories:
   - programming-language
 tags:
