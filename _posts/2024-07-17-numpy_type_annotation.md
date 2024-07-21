@@ -7,6 +7,7 @@ categories:
 tags:
   - Python
   - Trouble Shooting
+  - Numpy
 ---
 요즘 Python 언어 사용할 때마다 자료형 표시(type annotation)하는 것에 꽂혔어요.  
 Python은 동적 언어라서, 정적 언어를 주로 사용하던 사람들에게 설명할 때마다 소통 비용이 커졌거든요.  
