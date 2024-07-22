@@ -9,7 +9,7 @@ tags:
 ---
 ### 🗒️ 읽을 내용들 
 * <a href="https://techchallengearena.substack.com/p/locking-deep-dive-1?trk=feed_main-feed-card_feed-article-content" target="_blank">Multiprocessing Semaphore 동시성 제어를 위한 필수 도구</a>
-* <a href="https://techblog.yogiyo.co.kr/%EA%B4%91%EA%B3%A0-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%8D%BC%ED%8F%AC%EB%A8%BC%EC%8A%A4-%ED%8A%9C%EB%8B%9D-%ED%9A%8C%EA%B3%A0%EB%A1%9D-a658e40842d6" target="_blank">Multiprocessing Semaphore 동시성 제어를 위한 필수 도구</a>
+* <a href="https://techblog.yogiyo.co.kr/%EA%B4%91%EA%B3%A0-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%8D%BC%ED%8F%AC%EB%A8%BC%EC%8A%A4-%ED%8A%9C%EB%8B%9D-%ED%9A%8C%EA%B3%A0%EB%A1%9D-a658e40842d6" target="_blank">광고 시스템 퍼포먼스 튜닝 회고록</a>
 * <a href="https://youngban.tistory.com/5" target="_blank">신입 개발자들이 갖춰야할 능력</a>
 * <a href="https://medium.com/leniolabs/42-gpts-answer-to-life-the-universe-and-everything-829874fbffa8" target="_blank">42: GPT’s answer to Life, the Universe, and Everything</a>
   
