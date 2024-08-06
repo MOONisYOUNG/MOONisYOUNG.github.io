@@ -13,7 +13,7 @@ Langchain 라이브러리에 Chat-GPT api를 적용하여 RAG(Retrieval-Augmente
 특정 조건에 부합하는 한국어 데이터 파일을 Vector Stores에서 꺼내오는 과정 속에서 계속 None 값을 반환하더라구요.  
 분명히 해당 파일을 존재하는데 말이지요...!  
 
-이상하다는 생각이 들어서 '파일명의 문자열 값'과 제가 input으로 넣은 문자열 값을 비교해 봤습니다.  
+이상하다는 생각이 들어서 '파일명의 문자열 값'과 '제가 input으로 넣은 문자열 값'을 비교해 봤습니다.  
 그랬더니 아래처럼 서로 다른 값이 나왔습니다.    
 분명히 똑같이 생긴 문자열인데 말이지요...?  
 ```python
@@ -25,7 +25,7 @@ print(input_name_str.encode(encoding='utf-8')) # b'2021\xeb\x85\xb81147'
 ```
   
 알고 보니까 utf-8 문자열이어도 정규화 적용 방식에 따라 내부 값이 달라진다고 하네요.  
-문자열 정규화 방식 종류들은 아래와 같습니다!  
+문자열 정규화 방식 종류들은 아래와 같습니다!
 ### 👉 Unicode 문자열 정규화 방식
 * NFC (Normalization Form C): 완성형으로 변환.
 * NFD (Normalization Form D): 조합형으로 변환.
