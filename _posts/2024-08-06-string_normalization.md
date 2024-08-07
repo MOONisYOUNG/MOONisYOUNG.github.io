@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Unicode 문자열 정규화"
-excerpt: "😵‍💫 분명 똑같이 생겼는데 같지 않다고요...? (feat. 날 닮은 너 너 누구야)"
+excerpt: "😵‍💫 분명 똑같이 생겼는데 같지 않다고요...?"
 categories:
   - programming-language
 tags:
@@ -44,16 +44,20 @@ import unicodedata as ud
 ```python
 import unicodedata as ud
 
-def find_exact_case(case_number):
-    for doc in docs:
-      doc_source = doc.metadata["source"].split('/')[-1]
-      # normalize utf-8 string with NFC type
-      doc_source = ud.normalize('NFC', doc_source)
-      if doc_source.find(case_number) != -1:
-          return doc.page_content
+def find_exact_case(case_number: str) -> str:
+  for doc in docs:
+    doc_source = doc.metadata["source"].split('/')[-1]
+    # normalize utf-8 string with NFC type
+    doc_source = ud.normalize('NFC', doc_source)
+    if doc_source.find(case_number) != -1:
+      return doc.page_content
+
+if __name__ == "__main__":
+  print(find_exact_case("2021노1147")) # '2021노1147' 파일명에 해당하는 문서 내용 출력
 ```
   
 제가 참고했던 'Unicode 문자열 정규화' 자료도 같이 남깁니다 ^_^  
+### 📑 참고 자료 링크
 * <a href="https://withblue.ink/2019/03/11/why-you-need-to-normalize-unicode-strings.html" target="_blank">When "Zoë" !== "Zoë". Or why you need to normalize Unicode strings</a>
 * <a href="https://velog.io/@leejh3224/%EB%B2%88%EC%97%AD-%EC%9C%A0%EB%8B%88%EC%BD%94%EB%93%9C-%EC%8A%A4%ED%8A%B8%EB%A7%81%EC%9D%84-%EB%85%B8%EB%A9%80%EB%9D%BC%EC%9D%B4%EC%A7%95-%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0" target="_blank">[번역] 유니코드 문자열을 정규화 해야하는 이유</a>
 * <a href="https://guangyuwu.wordpress.com/2017/09/27/normalizing-unicode/" target="_blank">Python: Normalizing Unicode</a>
