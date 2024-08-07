@@ -32,7 +32,7 @@ def typing_np(x1: int, x2: int) -> npt.NDArray[np.int64]:
     result = np.array([x1, x2])
     return result
 
-if __name__ == "main":
+if __name__ == "__main__":
     typing_np(1, 2)
 ```
 
